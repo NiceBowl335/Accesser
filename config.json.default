@@ -30,7 +30,13 @@
   "alert_hostname": {
     "www.quora.com": "fs.quoracdn.net",
     "sketch.pixiv.net": "pixivsketch.net",
-	"cdn1-smallimg.phncdn.com": "pabbp.com"
+    "cdn1-smallimg.phncdn.com": "pabbp.com",
+    "pixiv.net": "",
+    "pixiv.com": "",
+    "e-hentai.org": "",
+    "exhentai.org": "",
+    "static.syosetu.com": "static.syosetu.com",
+    "syosetu.com": ""
   },
   "content_fix": {
     "accounts.pixiv.net": {
