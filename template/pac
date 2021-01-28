@@ -37,7 +37,8 @@ var domains = {
   "archiveofourown.org": 1,
   "e-hentai.org": 1,
   "exhentai.org": 1,
-  "syosetu.com": 1
+  "syosetu.com": 1,
+  "pximg.net": 1
 };
 
 var shexps = {
