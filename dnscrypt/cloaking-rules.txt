@@ -144,7 +144,9 @@ source.pixiv.net 210.140.131.144
 
 forums.e-hentai.org 94.100.18.243 
 exhentai.org 178.175.132.20 
-e-hentai.org 104.20.26.25 
+e-hentai.org 104.20.135.21
+e-hentai.org 104.20.134.21
+e-hentai.org 172.67.0.127
 g.e-hentai.org 104.20.26.25 
 r.e-hentai.org 104.20.26.25 
 lofi.e-hentai.org 104.20.26.25 
